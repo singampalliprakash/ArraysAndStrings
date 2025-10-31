@@ -13,7 +13,6 @@ public class MethodOverriding {
 		vivo v=new y50();
 		v.camera();
 	}
-
 }
 class vivo
 {

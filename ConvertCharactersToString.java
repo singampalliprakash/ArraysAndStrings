@@ -2,8 +2,7 @@ package arraysAndStrings;
 
 public class ConvertCharactersToString {
 	public static String characterToString(char s[])
-	{
-//		String t=new String(s);
+	{//		String t=new String(s);
 		
 		String t = String.valueOf(s);
 		return t;

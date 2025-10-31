@@ -10,7 +10,6 @@ public class EvenlenthWordsInString {
 				System.out.println(w);
 			}
 		}
-		
 	}
 
 	public static void main(String[] args) {

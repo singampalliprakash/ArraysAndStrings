@@ -6,12 +6,10 @@ public class Abstract {
 		auto au=new auto();
 		au.stop();
 		au.start();
-		
-	}
+			}
 
 }
-abstract class vehicle
-{
+abstract class vehicle{
 	abstract void start();
 	void stop()
 	{

@@ -4,8 +4,7 @@ interface Animal
 	void eat();
 	void sleep();
 }
-class dog implements Animal
-{
+class dog implements Animal{
 
 	@Override
 	public void eat() {
